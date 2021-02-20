@@ -1,5 +1,6 @@
 ---
 name: "test"
+slug: "kipygba"
 ---
 
 もっといい感じにしたい

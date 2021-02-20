@@ -1,6 +1,6 @@
 ---
 name: "README"
-slug: "fdtnnus"
+slug: "readme"
 ---
 
 # README

@@ -2,6 +2,4 @@
 name: "test"
 ---
 
-test
-
-yokohama
+もっといい感じにしたい

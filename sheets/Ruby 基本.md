@@ -3,7 +3,6 @@ name: "Ruby 基本"
 slug: "ruby"
 ---
 
-
 # Ruby基本
 
 ## 繰り返し

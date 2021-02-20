@@ -1,5 +1,5 @@
 ---
-name: "test"
+name: test
 slug: enlyzfe
 ---
 

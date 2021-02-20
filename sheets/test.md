@@ -1,5 +1,5 @@
 ---
-name: test
+name: まるこぽーろ
 slug: enlyzfe
 ---
 

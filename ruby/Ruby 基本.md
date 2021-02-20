@@ -1,6 +1,7 @@
 ---
-name: "Ruby 基本"
+name: "Rubyの基本"
 slug: "ruby"
+tags: ["Ruby"]
 ---
 
 # Ruby基本

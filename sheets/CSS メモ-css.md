@@ -1,7 +1,7 @@
 ---
 name: "CSS メモ"
 slug: "css"
-tags: ["CSS", "px"]
+tags: ["CSS"]
 ---
 
 ## タイルレイアウト

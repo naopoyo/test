@@ -1,7 +1,6 @@
 ---
 name: "CSS スマホ対応"
 slug: "jfubbzp"
-tags: ["CSS"]
 ---
 
 # CSSスマホ対応

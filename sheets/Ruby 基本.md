@@ -1,6 +1,6 @@
 ---
 name: "Ruby 基本"
-slug: "fcrgyxa"
+slug: "ruby"
 ---
 
 

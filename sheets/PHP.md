@@ -1,6 +1,6 @@
 ---
 name: "PHP"
-slug: "php"
+slug: "zfeieoi"
 tags: ["PHP"]
 ---
 

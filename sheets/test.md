@@ -1,6 +1,7 @@
 ---
 name: "まるこぽーろ1"
 slug: "enlyzfe"
+tags: ["hoge"]
 ---
 
 # test

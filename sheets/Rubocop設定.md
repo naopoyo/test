@@ -1,6 +1,6 @@
 ---
 name: "Rubocop設定"
-slug: "xkfmapj"
+slug: "rubocop"
 tags: ["Ruby"]
 ---
 

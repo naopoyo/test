@@ -1,6 +1,6 @@
 ---
 name: "RxJS サンプル"
-slug: "mnkpnfy"
+slug: "rxjs"
 tags: ["RxJS"]
 ---
 

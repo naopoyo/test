@@ -4,3 +4,4 @@ slug: "readme"
 ---
 
 # README
+新機能テスト用リポジトリです。

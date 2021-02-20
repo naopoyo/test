@@ -1,6 +1,6 @@
 ---
 name: "test"
-slug: "kipygba"
+slug: "testtest"
 ---
 
 もっといい感じにしたい

@@ -1,6 +1,6 @@
 ---
 name: "PHP"
-slug: "zfeieoi"
+slug: "php"
 tags: ["PHP"]
 ---
 
@@ -14,7 +14,6 @@ hoge
 fuga
 EOM;
 ```
-
 
 ## 配列
 

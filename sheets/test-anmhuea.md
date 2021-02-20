@@ -1,6 +1,7 @@
 ---
 name: "test"
 slug: "anmhuea"
+tags: ["まなかな"]
 ---
 
 まな

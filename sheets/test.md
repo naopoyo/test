@@ -1,6 +1,6 @@
 ---
-name: まるこぽーろ
-slug: enlyzfe
+name: "まるこぽーろ1"
+slug: "enlyzfe"
 ---
 
 # test

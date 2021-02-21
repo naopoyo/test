@@ -1,6 +1,7 @@
 ---
 name: "Rails generate コマンド"
 slug: "mvkbhfi"
+tags: ["bbb"]
 ---
 
 ```

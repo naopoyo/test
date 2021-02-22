@@ -1,5 +1,5 @@
 ---
-name: "test"
+name: "ありがとうございました"
 slug: "kyo-moto-masaki"
 ---
 

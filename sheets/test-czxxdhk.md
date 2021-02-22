@@ -1,6 +1,6 @@
 ---
 name: "test"
-slug: "czxxdhk"
+slug: "kyo-moto-masaki"
 ---
 
 京本政樹

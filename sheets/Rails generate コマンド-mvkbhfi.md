@@ -1,7 +1,7 @@
 ---
 name: "Rails generate コマンド"
 slug: "mvkbhfi"
-tags: ["Rails"]
+tags: ["Ruby"]
 ---
 
 ```

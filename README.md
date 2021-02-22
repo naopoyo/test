@@ -1,7 +1,6 @@
 ---
 name: "README"
 slug: "readme"
-tags: ["README"]
 ---
 
 # README

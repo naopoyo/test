@@ -1,7 +1,7 @@
 ---
 name: "Rubocop設定"
 slug: "jqvkboy"
-tags: ["🍣", "🍺"]
+tags: ["Ruby"]
 ---
 
 プロジェクトルートに .rubocp.yml を作る。

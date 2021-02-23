@@ -8,4 +8,5 @@ tags: ["🗒"]
 - GitHub Appの削除
 - シート情報にパスを表示
 - 検索履歴に外部キー設定
+- GitHub webhookのApp削除
 - 

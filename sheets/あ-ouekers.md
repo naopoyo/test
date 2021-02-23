@@ -1,5 +1,5 @@
 ---
-name: "あ"
+name: "テスト"
 slug: "ouekers"
 ---
 

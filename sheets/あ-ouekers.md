@@ -6,7 +6,6 @@ tags: ["🗒"]
 
 
 - GitHub Appの削除機能追加
-- 検索履歴に外部キー設定
 - GitHub webhookのApp削除処理追加
 - GitHubログインできるように機能追加
 - アカウント作成後のSNS連携できるように

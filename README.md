@@ -3,8 +3,9 @@ name: "README"
 slug: "readme"
 ---
 
-# for test
+# hacker sheet dev
 
 新機能テスト用リポジトリです。
 
 プッシュするとメモが追加されます。
+
